@@ -1,1 +1,1 @@
-# HomeScope
+![Banner](https://github.com/CoEmergenceLab/PhylumScope/blob/master/img/banner.svg)
