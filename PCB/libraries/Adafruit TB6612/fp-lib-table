@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Adafruit TB6612")(type KiCad)(uri "$(KIPRJMOD)/Adafruit TB6612.pretty")(options "")(descr ""))
+)

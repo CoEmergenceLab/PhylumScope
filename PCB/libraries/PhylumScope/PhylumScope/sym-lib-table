@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name PhylumScope-eagle-import)(type Legacy)(uri ${KIPRJMOD}/PhylumScope-eagle-import.lib)(options "")(descr ""))
+  (lib (name PhylumScope_Z-rescue)(type Legacy)(uri ${KIPRJMOD}/PhylumScope_Z-rescue.lib)(options "")(descr ""))
+  (lib (name PhylumScope-rescue)(type Legacy)(uri ${KIPRJMOD}/PhylumScope-rescue.lib)(options "")(descr ""))
+)
