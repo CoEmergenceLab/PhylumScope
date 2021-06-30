@@ -1,1 +1,1 @@
-![Banner](https://github.com/CoEmergenceLab/PhylumScope/blob/master/img/banner.svg)
+![Banner](https://github.com/CoEmergenceLab/PhylumScope/blob/main/img/banner.svg)
